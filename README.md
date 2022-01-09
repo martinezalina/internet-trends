@@ -4,7 +4,7 @@ By Alina Martinez
 
 ## Sobre el proyecto
 
-Es un desafío que expresa la necesidad de realizar un análisis del uso de internet en Argentina. Como entregable se espera un dashboard interactivo y un informe con las concluciones del análisis realizado.
+Es un desafío que expresa la necesidad de realizar un análisis del uso de internet en Argentina. Como entregable se espera un dashboard interactivo y un informe con las conclusiones del análisis realizado.
 
 El desafío que se describe en `Data Analyst Challenge - Culture.pdf`. Se puede acceder al informe en `reporte/Conclusiones Uso de Internet.pdf` y al dashboard realizado en Google Data Studio en este link(https://datastudio.google.com/s/tqpB6jCFjOc).
 
