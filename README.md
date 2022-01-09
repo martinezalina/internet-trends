@@ -1,4 +1,4 @@
-# internet-trends
+# Internet trends
 
 By Alina Martinez
 
