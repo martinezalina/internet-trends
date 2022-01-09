@@ -1,6 +1,6 @@
 # Internet trends
 
-By Alina Martinez
+By Alina Martínez
 
 ## Sobre el proyecto
 
